@@ -1,3 +1,0 @@
-Hello WorldHello Asia
-Hello India
-Hello Buffer
