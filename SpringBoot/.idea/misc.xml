@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mail/mail/pom.xml" />
+        <option value="$PROJECT_DIR$/Task/Task/pom.xml" />
+        <option value="$PROJECT_DIR$/Person/Person/pom.xml" />
+        <option value="$PROJECT_DIR$/jackson/jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/ocrdemo/ocrdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/student/student/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaCode/JavaCode/pom.xml" />
+        <option value="$PROJECT_DIR$/learning/learning/pom.xml" />
+        <option value="$PROJECT_DIR$/mailtask/mailtask/pom.xml" />
+        <option value="$PROJECT_DIR$/readmail/readmail/pom.xml" />
+        <option value="$PROJECT_DIR$/security/security/pom.xml" />
+        <option value="$PROJECT_DIR$/pdfwriter/pdfwriter/pom.xml" />
+        <option value="$PROJECT_DIR$/tesseract/tesseract/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/studentapp/studentapp/pom.xml" />
+        <option value="$PROJECT_DIR$/Student (1)/Student/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/Aug6_SpringBoot/Aug6_SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/Person_8_7_2025/Person_8_7_2025/pom.xml" />
+        <option value="$PROJECT_DIR$/queston-service/queston-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityEx/SpringSecurityEx/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernatevalidation/hibernatevalidation/pom.xml" />
+        <option value="$PROJECT_DIR$/securityapplication/securityapplication/pom.xml" />
+        <option value="$PROJECT_DIR$/Sept9_SpringSecurity/Sept9_SpringSecurity/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.ashar.profileManager.FirstBootApplication
+Class-Path: jackson-datatype-jdk8-2.19.2.jar jboss-logging-3.6.1.Final.j
+ ar spring-orm-6.2.9.jar tomcat-embed-websocket-10.1.43.jar spring-aop-6
+ .2.9.jar spring-data-commons-3.5.2.jar log4j-to-slf4j-2.24.3.jar spring
+ -webmvc-6.2.9.jar spring-boot-starter-json-3.5.4.jar lombok-1.18.38.jar
+  hibernate-core-6.6.22.Final.jar jackson-annotations-2.19.2.jar spring-
+ boot-starter-web-3.5.4.jar jakarta.annotation-api-2.1.1.jar spring-bean
+ s-6.2.9.jar spring-boot-3.5.4.jar tomcat-embed-el-10.1.43.jar jackson-m
+ odule-parameter-names-2.19.2.jar ojdbc11-21.5.0.0.jar spring-core-6.2.9
+ .jar aspectjweaver-1.9.24.jar log4j-api-2.24.3.jar spring-boot-starter-
+ jdbc-3.5.4.jar spring-web-6.2.9.jar classmate-1.7.0.jar HikariCP-6.3.1.
+ jar logback-classic-1.5.18.jar jackson-datatype-jsr310-2.19.2.jar sprin
+ g-boot-starter-tomcat-3.5.4.jar antlr4-runtime-4.13.0.jar spring-contex
+ t-6.2.9.jar spring-boot-autoconfigure-3.5.4.jar spring-aspects-6.2.9.ja
+ r jackson-core-2.19.2.jar micrometer-observation-1.15.2.jar jul-to-slf4
+ j-2.0.17.jar tomcat-embed-core-10.1.43.jar jakarta.persistence-api-3.1.
+ 0.jar istack-commons-runtime-4.1.2.jar jandex-3.2.0.jar jakarta.inject-
+ api-2.0.1.jar snakeyaml-2.4.jar jakarta.xml.bind-api-4.0.2.jar jaxb-run
+ time-4.0.5.jar spring-boot-starter-data-jpa-3.5.4.jar spring-jcl-6.2.9.
+ jar jackson-databind-2.19.2.jar jaxb-core-4.0.5.jar spring-boot-starter
+ -3.5.4.jar spring-boot-starter-logging-3.5.4.jar spring-tx-6.2.9.jar ja
+ karta.activation-api-2.1.3.jar spring-jdbc-6.2.9.jar slf4j-api-2.0.17.j
+ ar angus-activation-2.0.2.jar spring-data-jpa-3.5.2.jar spring-boot-dev
+ tools-3.5.4.jar hibernate-commons-annotations-7.0.3.Final.jar jakarta.t
+ ransaction-api-2.0.1.jar spring-expression-6.2.9.jar byte-buddy-1.17.6.
+ jar txw2-4.0.5.jar micrometer-commons-1.15.2.jar logback-core-1.5.18.ja
+ r ojdbc5.jar ojdbc6.jar ojdbc6_g.jar
+

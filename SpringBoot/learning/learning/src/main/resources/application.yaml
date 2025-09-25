@@ -1,0 +1,37 @@
+#spring boot and data jpa config
+spring:
+  application:
+    name: First Boot
+  datasource:
+    url: jdbc:oracle:thin:@//localhost:1521/xe
+    username: ashar
+    password: Ashark@007
+    driver-class-name: oracle.jdbc.OracleDriver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 9090
+
+#swagger config
+
+springdoc:
+  swagger-ui:
+    path: /api
+
+#configuration properties (user generated data)
+
+banking:
+  application:
+    details:
+      name: SBI
+      ifsc: SBI1234
+      branch: Police-Circle
+      city: Hyderabad
+      state: Telangana
+    account:
+      account-number: 290909031
+      balance: 909000
+

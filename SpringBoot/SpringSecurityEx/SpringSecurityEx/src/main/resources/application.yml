@@ -1,0 +1,20 @@
+#server:
+#  port: 8090
+#
+#spring:
+#  application:
+#    name: SpringSecurityEx
+#
+#  datasource:
+#    url: jdbc:oracle:thin:@localhost:1521:xe
+#    username: eidiko
+#    password: sarasu10
+#    driver-class-name: oracle.jdbc.OracleDriver
+#
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#    properties:
+#      hibernate:
+#        format_sql: true   # Makes SQL logs more readable

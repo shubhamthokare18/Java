@@ -1,0 +1,20 @@
+server:
+  port: 8090
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: ${MAIL_USER}
+    password: ${MAIL_PASS}   # keep in environment variable
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+mail:
+  imap:
+    host: imap.gmail.com
+    port: 993
+    protocol: imaps

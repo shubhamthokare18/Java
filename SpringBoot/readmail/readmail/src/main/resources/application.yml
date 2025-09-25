@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+spring:
+  mail:
+    imap:
+      host: imap.gmail.com
+      port: 993
+      user: ${MAIL_USER}
+      password: ${MAIL_PASS}
+      protocol: imaps
+      ssl.enable: true

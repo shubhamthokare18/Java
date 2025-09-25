@@ -1,0 +1,14 @@
+server:
+ port: 8090
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: ${MAIL_USER}   # your Gmail
+    password: ${MAIL_PASS}                  # your App Password (16 chars)
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Aug6_SpringBoot/Aug6_SpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaCode/JavaCode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Person/Person/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Person_8_7_2025/Person_8_7_2025/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sept9_SpringSecurity/Sept9_SpringSecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurityEx/SpringSecurityEx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Student (1)/Student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task/Task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernatevalidation/hibernatevalidation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jackson/jackson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learning/learning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mail/mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mailtask/mailtask/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ocrdemo/ocrdemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pdfwriter/pdfwriter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/queston-service/queston-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/readmail/readmail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/securityapplication/securityapplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springsecurity/springsecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student/student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentapp/studentapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tesseract/tesseract/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    username: Eidiko
+    password: sarasu10
+    url: jdbc:oracle:thin:@localhost:1521:xe
+    driver-class-name: oracle.jdbc.OracleDriver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
